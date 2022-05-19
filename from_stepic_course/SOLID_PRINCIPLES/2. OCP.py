@@ -1,5 +1,5 @@
 """
-OCP - open-closed principle
+Open-Closed principle
 object is open for extension, is closed for modification
 """
 from enum import Enum
